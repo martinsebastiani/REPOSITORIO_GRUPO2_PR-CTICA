@@ -1,0 +1,9 @@
+Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005.
+
+Pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.
+
+Microsoft compró a GitHub
+
+Existen varias terminales para trabajar con repositorios remotos, que pueden ser GitHub, GitLab, entre otros.
+
+Se pueden manipular estos repositorios desde la terminal propia y/o desde un IDE que incorpore una extensión de la terminal.
